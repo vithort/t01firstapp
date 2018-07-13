@@ -11,4 +11,12 @@ export class HomePage {
 
   }
 
+  buttonClick() {
+    console.log("Clicked");
+  }
+
+  buttonClickAlert() {
+    alert("Clicked");
+  }
+
 }
